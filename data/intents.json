@@ -1,0 +1,10 @@
+[
+  { "text": "VPN çalışmıyor", "intent": "vpn_issue" },
+  { "text": "VPN bağlantı sorunu var", "intent": "vpn_issue" },
+  { "text": "Şifremi unuttum", "intent": "password_reset" },
+  { "text": "Parolamı sıfırlamak istiyorum", "intent": "password_reset" },
+  { "text": "Outlook açılmıyor", "intent": "email_issue" },
+  { "text": "Mail gönderemiyorum", "intent": "email_issue" },
+  { "text": "Destek kaydı aç", "intent": "ticket_request" },
+  { "text": "IT ticket oluştur", "intent": "ticket_request" }
+]

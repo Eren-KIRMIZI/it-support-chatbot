@@ -1,0 +1,14 @@
+[
+  {
+    "question": "VPN bağlanmıyor",
+    "answer": "Cisco AnyConnect'i kapatıp yeniden açın. İnternet bağlantınızı kontrol edin."
+  },
+  {
+    "question": "Şifremi unuttum",
+    "answer": "Şifre sıfırlama için portal.example.com adresine gidin."
+  },
+  {
+    "question": "Outlook açılmıyor",
+    "answer": "Outlook'u güvenli modda açmayı deneyin veya Office onarımı yapın."
+  }
+]
