@@ -1,6 +1,9 @@
 # IT Support Chatbot - Akıllı Destek Yönetim Sistemi
 
 
+https://github.com/user-attachments/assets/40f410b9-810d-40c4-8f2d-1a8dd6e98737
+
+
 ## Proje Hakkında
 
 **IT Support Chatbot**, şirketlerin IT destek süreçlerini otomatikleştiren ve optimize eden kapsamlı bir yönetim platformudur. Sistem, chatbot ile kullanıcı sorularını anlayıp otomatik çözümler sunarken, çözülemeyen sorunları akıllı ticket sistemine yönlendirir.
@@ -271,7 +274,6 @@ INTENT_RULES = {
     "password_reset": {"severity": "low",      "priority": "P4"},
 }
 ```
-
 ### SLA Escalation
 
 - Ticket oluşturulduğunda `sla_deadline` otomatik hesaplanır
